@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DemoJenkins/v17
+/demo-jenkins/.vs/demo-jenkins
+/demo-jenkins/DemoJenkins/obj
+/.vs/demo-jenkins/FileContentIndex
+/DemoJenkins/obj
